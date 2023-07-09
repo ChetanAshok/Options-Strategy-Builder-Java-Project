@@ -1,4 +1,4 @@
-package Example;
+package osb;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 

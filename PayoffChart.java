@@ -1,4 +1,4 @@
-
+package osb;
 import javax.swing.JFrame;  
 import javax.swing.SwingUtilities;  
 import org.jfree.chart.ChartFactory;

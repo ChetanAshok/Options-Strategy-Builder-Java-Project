@@ -2,7 +2,8 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
-import java.awt.event.WindowEvent;    
+import java.awt.event.WindowEvent; 
+package osb;
 
 public class Op {
     public static void main(String[]args){
